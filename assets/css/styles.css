@@ -7,3 +7,6 @@ body {
     background-color: lightgrey;
     background-image: url('/Assets/Images/01-02-02_background-img.jpg');
 }
+#orange {
+    color: orange;
+}
